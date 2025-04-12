@@ -1,4 +1,4 @@
-### Hello 👋, I am [Awa]([(https://nasalane.netlify.app/)]! 😁
+### Hello 👋, I am [Awa](https://nasalane.netlify.app/)! 😁
 <!--
 **rusty-sj/rusty-sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
