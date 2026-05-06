@@ -4,7 +4,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=acoderwannabe19.acoderwannabe19)
 
 - Master's student in Computer Science
-- Interested in Machine Learning
+- Interested in Machine Learning, Reinforcement Learning and Information Retrieval
 
 ---
 
